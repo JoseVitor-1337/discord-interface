@@ -1,14 +1,8 @@
 # Discord Interface
 
----
+### Creating a clone of discord interface
 
-## Creating a clone of discord interface
-
-![Discord-Interface](https://github.com/JoseVitor-1337/discord-interface/blob/master/discord.gif)
-
----
-
-## Features
+### Features
 
 - React.js
 - Typescript
