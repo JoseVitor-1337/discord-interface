@@ -1,7 +1,5 @@
 ## Discord Interface
 
-### Creating a clone of discord interface
-
 ### Features
 
 - React.js
