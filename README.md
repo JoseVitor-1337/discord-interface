@@ -1,4 +1,4 @@
-# Discord Interface
+## Discord Interface
 
 ### Creating a clone of discord interface
 
@@ -8,7 +8,7 @@
 - Typescript
 - Styled Components
 
-## Getting Started
+### Getting Started
 
 ```
 git clone https://github.com/JoseVitor-1337/discord-interface.git
